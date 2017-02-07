@@ -6,7 +6,7 @@ public class first_class
 		System.out.println("Hello");
 		System.out.println("first commit1");
 		System.out.println("Second commit1");
-		System.out.println("today i have learnt how to work with github");
+		System.out.println("today i have  vgflearnt how to work with github");
 		
 		
 	}
